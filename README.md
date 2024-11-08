@@ -1,2 +1,2 @@
-# amandatsoni.github.io
+# amandatsn.github.io
 Hello World!
